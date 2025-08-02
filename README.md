@@ -1,4 +1,4 @@
 # Demo
 This is first Git repository
 <br>
-Author - Piyush Shete
+Author - Piyush Shete (Entc)
